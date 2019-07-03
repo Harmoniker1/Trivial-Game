@@ -3,9 +3,10 @@
 // Main_window.cpp
 //
 // Trivial Game v0.3.3
-// A Simplified Version of SimCity
+// A Very Simple Re-creation of SimCity
 // Copyright © 2018-2019 Chenzhe Du, Jinghao Jiao, Zhiyu Sun, Jiayi Zheng.
 //
+// Disclaimer: This is only a course project, no commercial interest is involved.
 // ------------------------------------------------------------
 
 #include "Main_window.h"
