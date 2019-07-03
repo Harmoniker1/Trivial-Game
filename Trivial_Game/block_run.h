@@ -4,7 +4,7 @@
 //
 // Trivial Game
 // A Simplified Version of SimCity®
-// Copyright © 2018-2019 Chenzhe Du, Jinghao Jiao, Zhiyu Sun, Jiayi Zheng. All Rights Reserved.
+// Copyright © 2018-2019 Chenzhe Du, Jinghao Jiao, Zhiyu Sun, Jiayi Zheng. 
 //
 // ------------------------------------------------------------
 
