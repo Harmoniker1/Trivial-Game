@@ -3,7 +3,7 @@
 // Main_window.h
 //
 // Trivial Game
-// A Simplified Version of SimCity®
+// A Simplified Version of SimCity
 // Copyright © 2018-2019 Chenzhe Du, Jinghao Jiao, Zhiyu Sun, Jiayi Zheng.
 //
 // ------------------------------------------------------------
