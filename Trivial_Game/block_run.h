@@ -2,7 +2,7 @@
 //
 // block_run.h
 //
-// Trivial Game
+// Trivial Game v0.3.3
 // A Simplified Version of SimCity
 // Copyright © 2018-2019 Chenzhe Du, Jinghao Jiao, Zhiyu Sun, Jiayi Zheng. 
 //
