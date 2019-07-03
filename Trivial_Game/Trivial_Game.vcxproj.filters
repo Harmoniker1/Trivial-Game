@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Trivial_Game">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Trivial_Game\Graph_lib">
+      <UniqueIdentifier>{00eaead9-c2f0-421c-8783-5f03171618f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trivial_Game\Block">
+      <UniqueIdentifier>{8897690e-7620-457f-bbf5-2555451be83f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trivial_Game\World">
+      <UniqueIdentifier>{9e502000-7320-4a9e-883d-75782cf6a429}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trivial_Game\Window">
+      <UniqueIdentifier>{843df574-94d8-4952-8c97-e4065de45fd7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Trivial_Game\Function">
+      <UniqueIdentifier>{9fefc3a8-6faa-4fe9-a6f6-9dec6a184cfc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="statics.h">
+      <Filter>Trivial_Game</Filter>
+    </ClInclude>
+    <ClInclude Include="fltk.h">
+      <Filter>Trivial_Game\Graph_lib</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph.h">
+      <Filter>Trivial_Game\Graph_lib</Filter>
+    </ClInclude>
+    <ClInclude Include="GUI.h">
+      <Filter>Trivial_Game\Graph_lib</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>Trivial_Game\Graph_lib</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector_ref.h">
+      <Filter>Trivial_Game\Graph_lib</Filter>
+    </ClInclude>
+    <ClInclude Include="Window.h">
+      <Filter>Trivial_Game\Graph_lib</Filter>
+    </ClInclude>
+    <ClInclude Include="block_run.h">
+      <Filter>Trivial_Game\Block</Filter>
+    </ClInclude>
+    <ClInclude Include="blocks.h">
+      <Filter>Trivial_Game\Block</Filter>
+    </ClInclude>
+    <ClInclude Include="world.h">
+      <Filter>Trivial_Game\World</Filter>
+    </ClInclude>
+    <ClInclude Include="Main_window.h">
+      <Filter>Trivial_Game\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="world_function.h">
+      <Filter>Trivial_Game\World</Filter>
+    </ClInclude>
+    <ClInclude Include="left_click.h">
+      <Filter>Trivial_Game\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="function.h">
+      <Filter>Trivial_Game\Function</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Graph.cpp">
+      <Filter>Trivial_Game\Graph_lib</Filter>
+    </ClCompile>
+    <ClCompile Include="Window.cpp">
+      <Filter>Trivial_Game\Graph_lib</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI.cpp">
+      <Filter>Trivial_Game\Graph_lib</Filter>
+    </ClCompile>
+    <ClCompile Include="Trivial_Game.cpp">
+      <Filter>Trivial_Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Main_window.cpp">
+      <Filter>Trivial_Game\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="world_function.cpp">
+      <Filter>Trivial_Game\World</Filter>
+    </ClCompile>
+    <ClCompile Include="block_run.cpp">
+      <Filter>Trivial_Game\Block</Filter>
+    </ClCompile>
+    <ClCompile Include="function.cpp">
+      <Filter>Trivial_Game\Function</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
